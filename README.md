@@ -112,12 +112,11 @@ Low false positives and false negatives indicate strong classification capabilit
 
 1. Load dataset  
 2. Preprocess text data  
-3. Apply TF-IDF vectorization  
-4. Split into train and test sets  
+3. Split into train and test sets  
+4. Apply TF-IDF vectorization  
 5. Train Logistic Regression model  
 6. Evaluate model performance  
 7. Generate predictions  
-
 ---
 
 ## 🗂 Project Structure
@@ -129,9 +128,6 @@ Spam-Detection-Using-TFIDF-and-LogisticRegression/
 │
 ├── notebook/
 │ └── spam_detection.ipynb
-│
-├── app.py
-├── requirements.txt
 └── README.md
 ---
 
