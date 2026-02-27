@@ -10,7 +10,7 @@ Data preprocessing -> Feature extraction -> Model training -> Evaluation -> Pred
 
 The model uses **TF-IDF Vectorization** and **Logistic Regression**, achieving high accuracy with strong precision-recall balance.
 
----
+
 
 ## 🎯 Objectives
 
