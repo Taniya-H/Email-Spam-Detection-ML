@@ -1,4 +1,4 @@
-# 📧Email Spam Detection ML
+# 📧SMS Spam Detection ML
 
 ## 🚀 Project Description
 
