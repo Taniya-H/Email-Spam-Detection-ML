@@ -40,7 +40,6 @@ The dataset was split into training and testing sets to ensure fair evaluation.
 ## 🛠 Technologies & Tools Used
 
 - Python  
-- NumPy  
 - Pandas  
 - Scikit-learn  
 - Google Colab  
